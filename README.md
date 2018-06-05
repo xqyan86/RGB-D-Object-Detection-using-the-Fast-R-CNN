@@ -3,6 +3,6 @@ This was a course project of Deep Learning(DL). The project is based on the Fast
 
 Mainwork:
 
-◦ Investigated two simple encoding schemes for the depth modality to use an ImageNet pre-trained model.
+◦ Investigated two simple encoding schemes for the depth modality to use an ImageNet pre-trained model.  
 ◦ Combined RGB and depth modalities using average score and joint training to achieve better detection results.
 
